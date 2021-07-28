@@ -1,4 +1,5 @@
 # testrepo
 i am emmmanuel.i am a software developer. :)
 i am saving now
-i love my job
+i love my jobs
+people think am lazy
